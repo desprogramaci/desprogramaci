@@ -39,4 +39,4 @@ Aquí puedes explorar algunos de mis desarrollos más recientes enfocados en arq
 
 * **Ubicación:** Alcalá de Henares, Madrid, España 🇪🇸
 * **Correo electrónico:** desprogramaci@gmail.com
-* **LinkedIn:** [Conectemos en LinkedIn](https://www.linkedin.com/in/desprogramaci/)
+* **LinkedIn:** [Conectemos en LinkedIn](https://www.linkedin.com/in/yonti-testa-38501543/)
