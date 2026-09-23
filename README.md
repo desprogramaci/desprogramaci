@@ -24,13 +24,6 @@ Aquí puedes explorar algunos de mis desarrollos más recientes enfocados en arq
 2. **[Data Analytics Ecosystem](https://github.com/desprogramaci/proyecto-data-analytics)**
    * **Descripción:** Ecosistema integral de análisis de datos que integra pipelines ETL en Python, bases de datos relacionales y paneles de inteligencia de negocio.
    * **Tech Stack:** Python, PostgreSQL, Docker, Metabase.
-
----
-
-### 📊 Estadísticas de GitHub
-
-![Estadísticas de Yonti](https://github-readme-stats.vercel.app/api?username=desprogramaci&show_icons=true&theme=radical&hide_border=true)
-
 ---
 
 ### 📫 ¿Cómo contactar conmigo?
