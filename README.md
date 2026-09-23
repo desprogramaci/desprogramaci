@@ -21,7 +21,7 @@ Aquí puedes explorar algunos de mis desarrollos más recientes enfocados en arq
    * **Descripción:** Plataforma genérica y avanzada de monitorización de indicadores sociales, analítica en tiempo real y automatización mediante agentes de IA autónomos en segundo plano.
    * **Tech Stack:** Python (FastAPI), PostgreSQL, Streamlit, Plotly, Docker, SQLAlchemy.
 
-2. **[Data Analytics Ecosystem](https://github.com/desprogramaci/proyecto-datos-analiticos)**
+2. **[Data Analytics Ecosystem](https://github.com/desprogramaci/proyecto-data-analytics)**
    * **Descripción:** Ecosistema integral de análisis de datos que integra pipelines ETL en Python, bases de datos relacionales y paneles de inteligencia de negocio.
    * **Tech Stack:** Python, PostgreSQL, Docker, Metabase.
 
